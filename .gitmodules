@@ -1,0 +1,3 @@
+[submodule "uds-code"]
+	path = uds-code
+	url = https://github.com/UDS-SPEG/uds-code.git
