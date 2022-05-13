@@ -1,0 +1,3 @@
+rootProject.name = 'UDS_LCMS'
+include 'uds-lcms-core'
+include 'uds-code'
