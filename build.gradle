@@ -33,6 +33,7 @@ subprojects {
 
 project(':uds-lcms-core') {
     dependencies {
+        implementation project(':uds-global-core')
         implementation project(':uds-code')
     }
 }
