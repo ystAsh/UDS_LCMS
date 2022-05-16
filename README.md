@@ -11,13 +11,18 @@
 
 ## Project Setting
 1. Git clone
-
-   `$ git clone https://github.com/UDS-SPEG/UDS_LCMS.git`
+   ```
+   $ git clone https://github.com/UDS-SPEG/UDS_LCMS.git
+   ```
 
 
 2. Git Submodule update
  
-   `$ git submodule update --init`
+   ```
+   $ cd ./UDS_LCMS
+   
+   $ git submodule update --init
+   ```
 
 
 3. Frontend(nuxt) init
