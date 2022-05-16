@@ -1,6 +1,6 @@
 [submodule "uds-global-core"]
 	path = uds-global-core
-	url = https://github.com/UDS-SPEG/uds-global.core.git
+	url = https://github.com/UDS-SPEG/uds-global-core.git
 [submodule "uds-code"]
 	path = uds-code
 	url = https://github.com/UDS-SPEG/uds-code.git
