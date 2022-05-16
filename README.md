@@ -12,25 +12,25 @@
 ## Project Setting
 1. Git clone
    ```
-   $ git clone https://github.com/UDS-SPEG/UDS_LCMS.git
+   git clone https://github.com/UDS-SPEG/UDS_LCMS.git
    ```
 
 
 2. Git Submodule update
  
    ```
-   $ cd ./UDS_LCMS
+   cd ./UDS_LCMS
    
-   $ git submodule update --init
+   git submodule update --init
    ```
 
 
 3. Frontend(nuxt) init
 
    ```
-   $ cd ~/UDS_LCMS/uds-lcms-core/src/main/nuxt
-   $ npm install
-   $ npm run generate
+   cd /uds-lcms-core/src/main/nuxt
+   npm install
+   npm run generate
    ```
 
 4. Run
