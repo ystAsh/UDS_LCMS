@@ -35,5 +35,6 @@ project(':uds-lcms-core') {
     dependencies {
         implementation project(':uds-global-core')
         implementation project(':uds-code')
+        implementation project(':uds-mber')
     }
 }

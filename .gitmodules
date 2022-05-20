@@ -7,3 +7,6 @@
 [submodule "uds-lcms-core"]
 	path = uds-lcms-core
 	url = https://github.com/UDS-SPEG/uds-lcms-core.git
+[submodule "uds-mber"]
+	path = uds-mber
+	url = https://github.com/UDS-SPEG/uds-mber.git
