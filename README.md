@@ -19,7 +19,7 @@
 2. Git Submodule update
  
    ```
-   cd ./UDS_LCMS
+   cd .\UDS_LCMS
    
    git submodule update --init
    ```
@@ -28,7 +28,7 @@
 3. Frontend(nuxt) init
 
    ```
-   cd /uds-lcms-core/src/main/nuxt
+   cd .\uds-lcms-core\src\main\nuxt
    npm install
    npm run generate
    ```
@@ -40,5 +40,5 @@
      2. Run(Shift + F10) / Debug(Shift + F9)
      
    - Frontend
-     1. `$ cd ~/UDS_LCMS/uds-lcms-core/src/main/nuxt`
+     1. `$ cd [UDS_LCMS]\uds-lcms-core\src\main\nuxt`
      2. `$ npm run dev`
